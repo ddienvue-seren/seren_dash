@@ -48,7 +48,7 @@
                         </div>
                         <nav class="menu">
                             <ul class="nav metismenu" id="sidebar-menu">
-                                <li class="active"> <a href="index.html">
+                                <li class="active"> <a href="index.php">
     						<i class="fa fa-home"></i> Dashboard
     					</a> </li>
                                         <li> <a href="">
@@ -56,7 +56,7 @@
     						<i class="fa arrow"></i>
     					</a>
                                     <ul>
-                                        <li> <a href="Add_Seller.html">Add seller
+                                        <li> <a href="Add_Seller.php">Add seller
     								
     							</a> </li>
                                         <li> <a href="Min_Update.html">
@@ -75,7 +75,7 @@
                                              </a> </li>
                                     </ul>
                                 </li>
-                                <li> <a href="Memo.html">
+                                <li> <a href="Memo.php">
     						<i class="fa fa-pencil-square-o"></i> Memo
     					</a> </li>
                                
